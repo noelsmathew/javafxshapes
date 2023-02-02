@@ -1,0 +1,16 @@
+empId	First	Last	email	gender
+10012	Noel	Mathew	nmathew@gmail.com	F
+10234	Kevin	Placide	kplacide@gmail.com	M
+10876	Rawan	Mohamed	rmohamed@gmail.com	F
+10761	Kelsey	Brikkel	kbrikkel@gmail.com	F
+18729	John	Wade	jwadee@gmail.com	U
+11012	Hannah	Khanshali	hkhan@gmail.com	F
+24234	Fawziyah	Shamim	fsham@gmail.com	F
+24876	Samantha	Ehrman	sehrman@gmail.com	F
+24761	Ryan	Dayy	rday@gmail.com	M
+24729	Javier	Jbarra	jjbarra@gmail.com	M
+25012	Alexis	Jeffryes	ajeffryes@gmail.com	U
+24284	Ella	Arnold	earnold@gmail.com	F
+24879	Alaha	Nasari	anasari@gmail.com	F
+24766	Quynh	Dinh	qdinh@gmail.com	F
+21729	Ariya	Bakhteri	abak@gmail.com	F
